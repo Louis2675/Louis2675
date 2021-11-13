@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Louis2675
+- 🌱 I’m currently learning web-devloppement
+- 📫 You can reach me at 2eclerck.louis@gmail.com
+- 🎤 I'm a french native speaker / English Fluent speaker
+- 👨‍💻 I want to learn: C#, C++
