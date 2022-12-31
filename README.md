@@ -1,19 +1,32 @@
-- 👋 Hi, I’m @Louis2675
-- 🌱 I’m currently learning web-devloppement and computer science
-- 📫 You can reach me at 2eclerck.louis@gmail.com
-- 🎤 I'm a french native speaker / english fluent speaker
-- 👨‍💻 I want to learn: C#, C, react
-- 👀 My main hobbies are: basketball, golf and fencing
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+I'm a tech enthusiast who loves to learn about new things 😊.
+  
+#
 
+<h3 align=center><i>Some of my stats here ⏬</i></h3>  
 <details>
-  <summary>Github Statistics...</summary>
+<summary> 📊 Github Statistics...</summary>
   <p align = center>
     <img src="https://github-readme-stats.vercel.app/api?username=Louis2675&show_icons=true">
   </p>
+  <p align = center>
+    <img src="https://streak-stats.demolab.com/?user=Louis2675">
+  </p>
 </details>  
 <details>
-  <summary>Language Statistics</summary>
+  <summary> 🌐 Language Statistics</summary>
   <p align = center>
-    <img src="https://wakatime.com/share/@b6aae590-c1d2-4f18-a510-c418f2e3fdcf/777a5e3f-925d-4ac3-b0de-312bc18ba519.svg" height = 400>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis2675&layout=compact" width=490>
   </p>
 </details>
+
+#
+  
+<h3 align=center><i>Im friendly 👋, contact me!</i></h3>  
+  
+  
+  
+## ⚡ Domains
+  
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+  
